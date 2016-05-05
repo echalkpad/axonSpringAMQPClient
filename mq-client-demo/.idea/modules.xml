@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mq-client-demo.iml" filepath="$PROJECT_DIR$/mq-client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mq-server-demo/mq-server-comm/mq-server-comm.iml" filepath="$PROJECT_DIR$/../mq-server-demo/mq-server-comm/mq-server-comm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mqserver-demo/mqservwer-comm/mqservwer-comm.iml" filepath="$PROJECT_DIR$/../mqserver-demo/mqservwer-comm/mqservwer-comm.iml" />
+    </modules>
+  </component>
+</project>
